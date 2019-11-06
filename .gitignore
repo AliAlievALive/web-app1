@@ -12,7 +12,8 @@
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA ###
+### IntRU
+       #Введите запросelliJ IDEA ###
 .idea
 *.iws
 *.iml
